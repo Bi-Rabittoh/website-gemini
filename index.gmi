@@ -1,0 +1,31 @@
+# BiRabittoh's Capsule
+
+Welcome to my personal capsule!
+I'll write about whatever comes to mind, mainly technology and art, so that people can read it when I get famous in 80 years or so.
+=> blog Don't forget to check out my blog.
+Also, big thanks to Leonie (@koyu) for helping me host this!
+=> ../ koyu.space
+
+## About me
+Italian male born in 1998; I've been programming since 2016 and I love it.
+I enjoy art in every form, including video-games, as well as every kind of humor. I usually hang around on Discord while programming stuff I'll probably never actually get finished.
+While Italian is my main language, I can read and write perfect English. I'm a fast learner on any kind of programming language as long as it follows human logic.
+The name BiRabittoh comes from the Japanese pronunciation of "B-Rabbit", as said in Pandora Hearts, which was the first anime I watched on the internet.
+=> gemini://wp.glv.one/en/Pandora_Hearts More info on Pandora Hearts
+
+## Project contributions
+=> https://github.com/Render96/Render96ex Render96ex
+Working on the translation for this Super Mario 64 port.
+=> https://github.com/nxengine/nxengine-evo nxengine-evo
+Fixing the italian translation for Cave Story.
+
+If you're curious about my other projects, feel free to check them out:
+=> https://github.com/Bi-Rabittoh My GitHub profile
+
+##Contact
+You can add me on Discord or send an e-mail for business inquiries. I'll try to reply as soon as I can.
+=> https://discordapp.com/users/132123740724002816/ Bi-Rabittoh#5566 on Discord
+=> mailto:andronacomarco@gmail.com andronacomarco@gmail.com
+
+Lastly, you can check out the https version of this website, which also has an Atom feed for my blog.
+=> https://bi-rabittoh.github.io/ Web version
