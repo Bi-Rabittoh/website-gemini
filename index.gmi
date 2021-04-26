@@ -32,7 +32,7 @@ Fixing the italian translation for Cave Story.
 If you're curious about my other projects, feel free to check them out:
 => https://github.com/Bi-Rabittoh My GitHub profile
 
-##Contact
+## Contact
 You can add me on Discord or send an e-mail for business inquiries. I'll try to reply as soon as I can.
 => https://discordapp.com/users/132123740724002816/ Bi-Rabittoh#5566 on Discord
 => mailto:andronacomarco@gmail.com andronacomarco@gmail.com
