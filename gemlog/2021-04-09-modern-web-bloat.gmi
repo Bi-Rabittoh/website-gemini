@@ -1,5 +1,3 @@
-=> ../ Back to my gemlog.
-
 # Modern web bloat
 This is it. My first gemlog; I'm glad to be a pioneer for the gemini protocol.
 
@@ -41,13 +39,9 @@ I mean, this can not apply to all websites. Some of them just NEED to be as resp
 Nowadays you can be different than other websites by using plain HTML and CSS for your website: this ensures your pages will load instantly and be compatible even with the oldest of browsers!
 If you like this philosophy, you can check out other projects that aim for a simpler and faster web, like these ones:
 
-=> gemini://gemini.circumlunar.space/ gemini://
+=> //gemini.circumlunar.space/ gemini://
 A new, purposefully limited, internet protocol.
-=> https://www.getzola.org/ zola
-A simple and modern static site engine;
 => https://based.cooking/ based.cooking
 A modern recipe website based on user collaboration via GitHub;
 => https://wiby.me/ wiby.me
 A search engine that aims to only index classic style webpages.
-
-=> ../ Back to my gemlog.

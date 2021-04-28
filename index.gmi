@@ -1,4 +1,4 @@
-```BiRabittoh ASCII logo
+```BiRabittoh ASCII art
 888888b.   d8b 8888888b.           888      d8b 888    888             888      
 888  "88b  Y8P 888   Y88b          888      Y8P 888    888             888      
 888  .88P      888    888          888          888    888             888      
@@ -11,10 +11,12 @@
 
 # BiRabittoh's Capsule
 Welcome to my personal capsule!
-I'll write about whatever comes to mind, mainly technology and art, so that people can read it when I get famous in 80 years or so.
-=> gemlog Don't forget to check out my gemlog.
-Also, big thanks to Leonie (koyu) for helping me host this!
-=> ../ koyu.space
+While this is basically a front page for my main projects, I'll write on my gemlog about whatever comes to mind, mainly technology and art.
+This means people can read it when I get famous in 80 years or so.
+
+From here, you can check out:
+=> gemlog My gemlog
+=> cool.gmi Cool gemini capsules
 
 ## About me
 Italian male born in 1998; I've been programming since 2016 and I love it.
@@ -24,9 +26,9 @@ The name BiRabittoh comes from the Japanese pronunciation of "B-Rabbit", as said
 => gemini://wp.glv.one/en/Pandora_Hearts More info on Pandora Hearts
 
 ## Project contributions
-=> https://github.com/Render96/Render96ex Render96ex
+=> gemini://pon.ix.tc/github/repo/285468762 Render96ex
 Working on the translation for this Super Mario 64 port.
-=> https://github.com/nxengine/nxengine-evo nxengine-evo
+=> gemini://pon.ix.tc/github/repo/18452313 nxengine-evo
 Fixing the italian translation for Cave Story.
 
 If you're curious about my other projects, feel free to check them out:
@@ -36,6 +38,3 @@ If you're curious about my other projects, feel free to check them out:
 You can add me on Discord or send an e-mail for business inquiries. I'll try to reply as soon as I can.
 => https://discordapp.com/users/132123740724002816/ Bi-Rabittoh#5566 on Discord
 => mailto:andronacomarco@gmail.com andronacomarco@gmail.com
-
-Lastly, you can check out the https version of this capsule, which also has an Atom feed.
-=> https://bi-rabittoh.github.io/ Web version

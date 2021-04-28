@@ -1,0 +1,38 @@
+# BiRabittoh's bookmarks
+
+I'll be using this page to store my favorite capsules, since I try out a lot of different gemini browsers and getting them all synced is literally impossible.
+
+So, while this page is mainly useful to me, you can also use it to discover awesome Gemini capsules!
+
+``` Useful stuff I often need to copy-paste
+< ~ >
+     `
+```
+
+## Awesome stuff
+=> //gemlog.blue gemlog.blue
+=> gemini://weather.gluonspace.com Weather info
+=> gemini://bleyble.com/users/quokka/games/sudoku Daily Sudoku
+=> gemini://main-street.nightfall.city Nightfall City
+
+## Directories
+=> gemini://geminispace.info Gemini Search Engine
+=> gemini://medusae.space medusae.space
+=> gemini://geddit.glv.one Geddit
+
+## Proxies
+=> gemini://wp.glv.one Wikipedia
+=> gemini://pon.ix.tc/github GitHub
+=> gemini://pon.ix.tc/youtube YouTube
+=> gemini://translate.metalune.xyz Translators
+=> gemini://rawtext.club/~sloum/geminews Some news
+=> gemini://simplynews.metalune.xyz A lot more news
+
+## Cool people
+=> //anime.flounder.online Gemini Anime Turnpike
+=> //felixp7.flounder.online The cutting room floor
+=> gemini://koyu.space koyu.space
+=> gemini://oppen.digital Oppenlab
+=> gemini://gemini.barca.mi.it fnt400
+
+=> / Back to my capsule.
