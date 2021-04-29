@@ -11,9 +11,9 @@ So, while this page is mainly useful to me, you can also use it to discover awes
 
 ## Awesome stuff
 => //gemlog.blue gemlog.blue
+=> //main-street.nightfall.city Nightfall City
 => gemini://weather.gluonspace.com Weather info
 => gemini://bleyble.com/users/quokka/games/sudoku Daily Sudoku
-=> gemini://main-street.nightfall.city Nightfall City
 
 ## Directories
 => gemini://geminispace.info Gemini Search Engine
