@@ -1,3 +1,5 @@
+=> / 🏠 Home
+
 # BiRabittoh's bookmarks
 
 I'll be using this page to store my favorite capsules, since I try out a lot of different gemini browsers and getting them all synced is literally impossible.
@@ -34,5 +36,3 @@ So, while this page is mainly useful to me, you can also use it to discover awes
 => gemini://koyu.space koyu.space
 => gemini://oppen.digital Oppenlab
 => gemini://gemini.barca.mi.it fnt400
-
-=> / Back to my capsule.
