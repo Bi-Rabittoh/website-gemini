@@ -77,13 +77,13 @@ While Proton is interesting, I always prefer to run open source software, especi
 Ok, now I'm getting repetitive so I'll just get to the point.
 Linux is constantly evolving and it has now become the top choice for a lot of people, so let's try and consider every use case.
 
-* If you're a professional that's deep in the industry and you need some SPECIFIC program to run perfectly on your device... Yeah, you should use Windows.
+* If you're a professional that's deep in the industry and you need some _specific_ program to run perfectly on your device... Yeah, you should use Windows.
 * If you're a power user that's just used to paid software, maybe consider trying out some open source alternative?
-* If you're a gamer, I say you should dual boot. I have a Windows 10 LTSC installation that I use _exclusively_ for gaming. While Proton has made Linux gaming feasable, the experience isn't always the best, moreover if you, like me, play games that require millisecond-grade accuracy like rhythm games or competitive shooters.
+* If you're a gamer, I say you should dual boot. I have a Windows 10 LTSC installation that I use _exclusively_ for gaming. While Proton has made Linux gaming feasable, the experience isn't always the best, especially if you play games that require millisecond-grade accuracy, like rhythm games or competitive shooters.
 * If you're a student or employee, Linux would be perfect for you. You can quickly take notes and do office work without the annoying Windows 10 updates popping up and rebooting your system seemingly at random. Also, any Linux system will probably be more light on resource usage than Windows, so you could take some old hardware you thought would never be using again and actually make something useful with it.
 * If you work in the programming or engineering field, then what are you waiting for? You should try out a Linux OS as soon as possible, and not in a virtual machine. A lot of my friends said they didn't like Linux because it felt slow... While running on a VM... Duh? Try it out on real hardware so you can feel its superiority.
 
-Well, I can't possibly cover EVERY profession and use-case, but I hope I was clear about those I managed to list above.
+Well, I can't possibly cover *every* profession and use-case, but I hope I was clear about those I managed to list above.
 I'm going to conclude this article with some interesting links about Linux and FOSS you definitely should check out.
 
 => https://islinuxabout.xyz/ Is Linux About…?
